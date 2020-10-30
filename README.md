@@ -18,4 +18,4 @@ Clone this repo and import the components you want to use. Then use them.
 
 ## License
 
-Oculi is distributed under the MIT License. See [`LICENSE`](https://github.com/JanneSalokoski/blob/main/LICENSE) for more information.
+Oculi is distributed under the MIT License. See [`LICENSE`](https://github.com/JanneSalokoski/oculi/blob/main/LICENSE) for more information.
